@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Sarah Rogue's Website - Python</title><link href="https://www.sarah-rogue.me/" rel="alternate"/><link href="https://www.sarah-rogue.me/feeds/python.atom.xml" rel="self"/><id>https://www.sarah-rogue.me/</id><updated>2019-10-20T11:20:00-04:00</updated><entry><title>An article about Pelican</title><link href="https://www.sarah-rogue.me/an-article-about-pelican.html" rel="alternate"/><published>2019-10-20T11:20:00-04:00</published><updated>2019-10-20T11:20:00-04:00</updated><author><name>Sarah Rogue</name></author><id>tag:www.sarah-rogue.me,2019-10-20:/an-article-about-pelican.html</id><content type="html">&lt;div class="section" id="using-pelican-to-generate-static-files"&gt;
-&lt;h2&gt;Using Pelican to generate static files&lt;/h2&gt;
-&lt;p&gt;In this post we'll see how to use Pelican to generate a static file&lt;/p&gt;
-&lt;/div&gt;
-</content><category term="Python"/><category term="pelican"/><category term="tutorial"/></entry></feed>
